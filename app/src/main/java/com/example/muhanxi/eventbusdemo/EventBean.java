@@ -6,7 +6,7 @@ package com.example.muhanxi.eventbusdemo;
 
 public class EventBean {
 
-
+//test
 
     public boolean up ;
 
